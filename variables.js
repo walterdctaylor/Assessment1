@@ -1,20 +1,18 @@
 //////////////////PROBLEM 1////////////////////
 /* Create a variable called 'myName' with a value that is your name as a string. */
 
-var myName = "Walter";
-
+//CODE HERE
+if myName = "JonJon" 
 
 //////////////////PROBLEM 2////////////////////
-/* Create a variable called 'faveNum' with a value that is your favorite number
+/* Create a variable called 'faveNum' with a value that is your favorite number. */
 
-int faveNum = 21;
-
+//CODE HERE
 
 //////////////////PROBLEM 3////////////////////
 /* Create a variable called 'lovesCode' and assign it a boolean value. */
 
-var X = ("lovesCode") is true
-
+//CODE HERE
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -23,18 +21,11 @@ var X = ("lovesCode") is true
   If it's not, console.log('not lucky 13').
 */
 
-var f = 21
-if ('21 = 13'){
-  console.log('not lucky 13.')
-}
+//CODE HERE
 
 //////////////////PROBLEM 5////////////////////
 /*
   Write a for loop that prints out your faveNum 5 times.
 */
 
-for (let i = 0; < 5; i+++){
-  console.log(myFaveNum21)
-}
-
-
+//CODE HERE

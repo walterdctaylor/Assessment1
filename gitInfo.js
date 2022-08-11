@@ -9,8 +9,8 @@
     It should be a string containing your best definition of what Git is.
 */
 
-const = "gitdefinition;"
-console.log('control System For Projects.')
+//CODE HERE
+const gitDefinition =  'used for coordinating work '
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,8 +18,8 @@ console.log('control System For Projects.')
     It should be a string containing your best definition of what GitHub is.
 */
 
-const = "gitHubDefinition"
-console,log('A Hub To Store All Project FileSystem.')
+//CODE HERE
+const gitHub = ' Hosting service for software projects using git '
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -27,10 +27,8 @@ console,log('A Hub To Store All Project FileSystem.')
     It should be a string containing your best definition of what 'git init' does.
 */
 
-const = "gitInitDefinition";
-console.log('make a blank repository + var');
-
-
+//CODE HERE
+const gitinit = ' used to create a new blank repository'
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -39,6 +37,7 @@ console.log('make a blank repository + var');
 */
 
 //CODE HERE
+const gitclone = 'creates a clone or copy of an existing repository'
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -47,6 +46,7 @@ console.log('make a blank repository + var');
 */
 
 //CODE HERE
+const gitStatusDefinition =  ' refresh the index '
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -58,6 +58,7 @@ console.log('make a blank repository + var');
 */
 
 //CODE HERE
+const gitAddCode = ' gitadd '
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -69,6 +70,7 @@ console.log('make a blank repository + var');
 */
 
 //CODE HERE
+const gitCommitDefinition = 'saves your work'
 
 
 //////////////////PROBLEM 8////////////////////
@@ -78,3 +80,4 @@ console.log('make a blank repository + var');
 */
 
 //CODE HERE
+const gitPushDefinition =  ' upload local repository content '
